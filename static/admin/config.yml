@@ -1,4 +1,4 @@
 backend:
 name: github
-   repo: mcclain113/gatsby-starter-default
+repo: mcclain113/gatsby-starter-default
 media_folder: static/assets
