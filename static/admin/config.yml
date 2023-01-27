@@ -4,7 +4,6 @@ repo: mcclain113/gatsby-starter-default
 media_folder: static/assets
 
 collections:
-name: "blog"
 label: "Blog"
 folder: "content/blog"
 create: true
